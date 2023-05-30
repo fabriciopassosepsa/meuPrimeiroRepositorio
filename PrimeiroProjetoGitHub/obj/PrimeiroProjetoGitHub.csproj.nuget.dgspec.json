@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fabri\\source\\repos\\meuPrimeiroRepositorio\\PrimeiroProjetoGitHub\\PrimeiroProjetoGitHub.csproj": {}
+    "C:\\Users\\fabri\\Source\\Repos\\meuprimeirorepositorio_novo\\PrimeiroProjetoGitHub\\PrimeiroProjetoGitHub.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fabri\\source\\repos\\meuPrimeiroRepositorio\\PrimeiroProjetoGitHub\\PrimeiroProjetoGitHub.csproj": {
+    "C:\\Users\\fabri\\Source\\Repos\\meuprimeirorepositorio_novo\\PrimeiroProjetoGitHub\\PrimeiroProjetoGitHub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fabri\\source\\repos\\meuPrimeiroRepositorio\\PrimeiroProjetoGitHub\\PrimeiroProjetoGitHub.csproj",
+        "projectUniqueName": "C:\\Users\\fabri\\Source\\Repos\\meuprimeirorepositorio_novo\\PrimeiroProjetoGitHub\\PrimeiroProjetoGitHub.csproj",
         "projectName": "PrimeiroProjetoGitHub",
-        "projectPath": "C:\\Users\\fabri\\source\\repos\\meuPrimeiroRepositorio\\PrimeiroProjetoGitHub\\PrimeiroProjetoGitHub.csproj",
+        "projectPath": "C:\\Users\\fabri\\Source\\Repos\\meuprimeirorepositorio_novo\\PrimeiroProjetoGitHub\\PrimeiroProjetoGitHub.csproj",
         "packagesPath": "C:\\Users\\fabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fabri\\source\\repos\\meuPrimeiroRepositorio\\PrimeiroProjetoGitHub\\obj\\",
+        "outputPath": "C:\\Users\\fabri\\Source\\Repos\\meuprimeirorepositorio_novo\\PrimeiroProjetoGitHub\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fabri\\AppData\\Roaming\\NuGet\\NuGet.Config",

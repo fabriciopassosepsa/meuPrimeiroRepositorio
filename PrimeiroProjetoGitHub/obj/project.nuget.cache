@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3dxkKp903VUyXA0KCUwUQr76eOrm7vsGYNsNPVJU7Npl+CfKryCOASmfeL37Hr/ggKFthlasGk5kup81pKG9GA==",
+  "dgSpecHash": "TTl5ZkOkJMOWd/TFZhm9x8/KQHS5bhj15hba5gWgDzmxO8JtX/exf9gKk8s7jyY/zy5Xr1sO56+aALUfXFq9zA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fabri\\source\\repos\\meuPrimeiroRepositorio\\PrimeiroProjetoGitHub\\PrimeiroProjetoGitHub.csproj",
+  "projectFilePath": "C:\\Users\\fabri\\Source\\Repos\\meuprimeirorepositorio_novo\\PrimeiroProjetoGitHub\\PrimeiroProjetoGitHub.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fabri\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\fabri\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
