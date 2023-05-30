@@ -48,7 +48,7 @@ namespace PrimeiroProjetoGitHub
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
             });
-            // comentário sem necessidade nenhuma
+            // comentário sem necessidade nenhuma - merge
         }
     }
 }
