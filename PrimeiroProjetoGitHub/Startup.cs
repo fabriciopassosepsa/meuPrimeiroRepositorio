@@ -48,6 +48,7 @@ namespace PrimeiroProjetoGitHub
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
             });
+            // Inserindo comentário desnecessário
         }
     }
 }
